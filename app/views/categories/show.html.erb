@@ -1,0 +1,16 @@
+<h1>Categories</h1>
+<p>
+  <%= @category.name %>
+</p>
+
+<p>
+  <ul>
+  <% @category.soups.each do |category| %>
+ <li><%= link_to category.name, soup_path(category) %></li>
+
+ <% end  %>
+  </ul>
+</p>
+<p>
+  <%= link_to 'Back to Categories', categories_path %>
+</p>

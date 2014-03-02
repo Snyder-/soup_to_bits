@@ -1,0 +1,15 @@
+<h1> <%= @soup.name %></h1>
+<p>
+  <% if flash[:notice] %>
+  <p><%= flash[:notice] %></p>
+  <% end %>
+  <% if @soup.featured? %>
+<ul>
+  <li>Featured Soup!</li>
+</ul>
+  <% end %>
+</p>
+<%= link_to 'Back to Soups', soups_path %> | <%= link_to 'Back to Categories', categories_path %>
+<p>
+  <%= link_to 'Toggle Featured!', toggle_featured_path(@soup) %>
+</p>
