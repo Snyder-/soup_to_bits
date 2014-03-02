@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7765a50f-a261-4df9-a500-c29ee42a2b91" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/soup_to_bits.iml" afterPath="$PROJECT_DIR$/.idea/soup_to_bits.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="soup_to_bits.iws" />
@@ -43,7 +41,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="45" selection-start="373" selection-end="373" vertical-scroll-proportion="0.5876543" vertical-offset="0" max-vertical-offset="952">
+            <state line="8" column="3" selection-start="223" selection-end="223" vertical-scroll-proportion="0.33580247" vertical-offset="0" max-vertical-offset="969">
               <folding />
             </state>
           </provider>
@@ -482,6 +480,11 @@
       <created>1393621882206</created>
       <updated>1393621882206</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update Gemfile">
+      <created>1393744818647</created>
+      <updated>1393744818647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -508,6 +511,7 @@
     <frame x="-8" y="0" width="1378" height="780" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840237" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -560,6 +564,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Update Gemfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Gemfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -785,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="45" selection-start="373" selection-end="373" vertical-scroll-proportion="0.5876543" vertical-offset="0" max-vertical-offset="952">
+        <state line="8" column="3" selection-start="223" selection-end="223" vertical-scroll-proportion="0.33580247" vertical-offset="0" max-vertical-offset="969">
           <folding />
         </state>
       </provider>
